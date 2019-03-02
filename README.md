@@ -1,4 +1,2 @@
 # TheRGBColorGame
-JS excercise
-
-This is an excercise
+Guess the color game.
